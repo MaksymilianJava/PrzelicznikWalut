@@ -1,0 +1,53 @@
+2020-12-14
+dolar amerykański
+1 USD
+3,6252
+3,6984
+dolar kanadyjski
+1 CAD
+2,8376
+2,8950
+forint (Węgry)
+100 HUF
+1,2395
+1,2645
+funt szterling
+1 GBP
+4,7873
+4,8841
+korona czeska
+1 CZK
+0,1667
+0,1701
+korona norweska
+1 NOK
+0,4112
+0,4196
+SDR (MFW)
+1 XDR
+5,1977
+5,3027
+dolar australijski
+1 AUD
+2,7306
+2,7858
+euro
+1 EUR
+4,3928
+4,4816
+frank szwajcarski
+1 CHF
+4,0755
+4,1579
+jen (Japonia)
+100 JPY
+3,4864
+3,5568
+korona duńska
+1 DKK
+0,5902
+0,6022
+korona szwedzka
+1 SEK
+0,4281
+0,4367
